@@ -39,9 +39,8 @@
 |4|__Sara__|26 |
  5|__Mara__|27 
 
-
-
-
-
 ### _Цитаты_
-
+>Your never walk alone
+>>Never give up
+>>>Work hardly
+>>>>Be stronger!git
