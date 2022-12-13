@@ -45,6 +45,7 @@
 
 
 ### _Цитаты_
+<<<<<<< HEAD
 >Your never walk alone
 
 >>Never give up
@@ -53,5 +54,15 @@
 
 >>>>Be stronger!
 
+=======
+>Your never walk alone!
+
+>Never give up!
+
+>Work hardly!
+
+>Be stronger!
+>>>>>>> textfile
 <h1>Hello<h1>
+
 
